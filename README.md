@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# How to update React in GitHub pages:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Assuming you already have a GitHub page running with gh-pages and after you push your changes, you see them in your repo but the GitHub page is not being updated.
 
-## Available Scripts
+Scroll down or visit the 👉 [Tutorial Page](https://frnt-end.github.io/Update-React-in-GitHub-Pages/)
+💡 If you wondering about the full-screen video in the tutorial page, check this guide for [Responsive video in React](https://frnt-end.github.io/React-Responsive-Video/)
 
-In the project directory, you can run:
 
-### `npm start`
+***
+In this sample we are using **npm** and our branch called **master**, if needed, change them according to your own settings.
+We are also already have a **build directory** - don't have one? no problem!
+just execute `npm run build` command.
+***
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Let's Start
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+#### The solution is simple - we need to update the build directory!
 
-### `npm test`
+### In the terminal:
+Make sure you are in the project folder and no other processes are running (to stop all processing in the terminal: **Ctrl + c** in Windows OR **Cmd + c** in Mac)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### Deploy the build folder:
+##### `npm run deploy`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+(If you are using GitHub in your code editor, you will see the build folder content being added to the **Unstaged Changes** - ready to be staged).
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Stage all:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+##### `git add .`
 
-### `npm run eject`
+### ..and commit:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+##### `git commit -m "update build for gh-pages"`
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Last step - Push to GitHub:
+##### `git push -u origin master`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+***
+# Done! 👍
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+##### Refresh your page in GitHub and see the new changes.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+***
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Learn More about React & GitHub Pages
 
-### Analyzing the Bundle Size
+* [Article - How to Deploy a Routed React App to GitHub Pages](https://www.freecodecamp.org/news/deploy-a-react-app-to-github-pages/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+* [YouTube tutorial - How to Deploy React App to GitHub Pages](https://www.youtube.com/watch?v=F8s4Ng-re0E)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### License
 
-### Advanced Configuration
+Copyright © 2015 @frnt-end
+[nirit.website](https:///nirit.website)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
