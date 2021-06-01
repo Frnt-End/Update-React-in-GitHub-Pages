@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Update-React-in-GitHub-Pages/static/css/main.bbd06d7e.chunk.css",
+    "main.js": "/Update-React-in-GitHub-Pages/static/js/main.1b619626.chunk.js",
+    "main.js.map": "/Update-React-in-GitHub-Pages/static/js/main.1b619626.chunk.js.map",
+    "runtime-main.js": "/Update-React-in-GitHub-Pages/static/js/runtime-main.e54bfc53.js",
+    "runtime-main.js.map": "/Update-React-in-GitHub-Pages/static/js/runtime-main.e54bfc53.js.map",
+    "static/js/2.9a4cf039.chunk.js": "/Update-React-in-GitHub-Pages/static/js/2.9a4cf039.chunk.js",
+    "static/js/2.9a4cf039.chunk.js.map": "/Update-React-in-GitHub-Pages/static/js/2.9a4cf039.chunk.js.map",
+    "index.html": "/Update-React-in-GitHub-Pages/index.html",
+    "static/css/main.bbd06d7e.chunk.css.map": "/Update-React-in-GitHub-Pages/static/css/main.bbd06d7e.chunk.css.map",
+    "static/js/2.9a4cf039.chunk.js.LICENSE.txt": "/Update-React-in-GitHub-Pages/static/js/2.9a4cf039.chunk.js.LICENSE.txt",
+    "static/media/author.f1dce96f.png": "/Update-React-in-GitHub-Pages/static/media/author.f1dce96f.png",
+    "static/media/vid-bg.59c26340.mp4": "/Update-React-in-GitHub-Pages/static/media/vid-bg.59c26340.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e54bfc53.js",
+    "static/js/2.9a4cf039.chunk.js",
+    "static/css/main.bbd06d7e.chunk.css",
+    "static/js/main.1b619626.chunk.js"
+  ]
+}
