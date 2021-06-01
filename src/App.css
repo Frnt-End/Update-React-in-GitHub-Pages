@@ -31,6 +31,8 @@
       padding: 4px 14px;
     }
 
+
+
     code {
       font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
         monospace;
@@ -166,6 +168,20 @@
 
   .main-content-bottom p {
     margin: 0;
+  }
+
+  .main-content-bottom a {
+    color: #666;
+    font-size: .9em;
+    outline: none;
+    border: none;
+    transition: 0.3s;
+    text-decoration: none;
+  }
+
+  .main-content-bottom a:hover {
+    color: #000;
+    text-decoration: underline;
   }
 
   .bg-vid {

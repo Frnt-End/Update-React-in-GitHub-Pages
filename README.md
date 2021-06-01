@@ -2,21 +2,21 @@
 
 Assuming you already have a GitHub page running with gh-pages and after you push your changes, you see them in your repo but the GitHub page is not being updated.
 
-Scroll down or visit the 👉 [Tutorial Page](https://frnt-end.github.io/Update-React-in-GitHub-Pages/)
-💡 If you wondering about the full-screen video in the tutorial page, check this guide for [Responsive video in React](https://frnt-end.github.io/React-Responsive-Video/)
+Keep reading the full guide or check out the quick solution in the [Tutorial Page](https://frnt-end.github.io/Update-React-in-GitHub-Pages/)
+(If you wondering about the full-screen video in the tutorial page, check this guide to learn how to set a [Responsive video in React](https://frnt-end.github.io/React-Responsive-Video/))
 
 
 ***
 In this sample we are using **npm** and our branch called **master**, if needed, change them according to your own settings.
 We are also already have a **build directory** - don't have one? no problem!
-just execute `npm run build` command.
+just execute `npm run build` command (make sure the build folder it's not listed in the .gitignore file).
 ***
 
 ## Let's Start
 
 #### The solution is simple - we need to update the build directory!
 
-### In the terminal:
+## In the terminal:
 Make sure you are in the project folder and no other processes are running (to stop all processing in the terminal: **Ctrl + c** in Windows OR **Cmd + c** in Mac)
 
 

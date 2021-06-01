@@ -24,7 +24,7 @@ function App() {
     <div className="commands">
      <Tutorial />
     </div>
-    <p><strong>..and that's it! </strong> now refresh your GitHub page to see your latest changes.If you need more details, check out the full guide in the README file.</p>
+    <p><strong>..and that's it! </strong> now refresh your GitHub page to see your latest changes.If you need more details, check out the full guide in the <a href="https://github.com/Frnt-End/Update-React-in-GitHub-Pages">README file</a>.</p>
 
       </div>
       <div className="author">
