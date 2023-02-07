@@ -8,14 +8,14 @@ Keep reading the full guide or check out the quick solution in the [Tutorial Pag
 ---
 
 In this sample we are using **npm** and our branch called **master**, if needed, change them according to your own settings.
-We are also already have a **build directory** - don't have one? no problem!
+We already have a **build directory** - and if you don't have one? no problem!
 just execute `npm run build` command (make sure the build folder it's not listed in the .gitignore file).
 
 ---
 
 ## Let's Start
 
-#### The solution is simple - we need to update the build directory!
+#### The solution is simple - we just need to update the build directory!
 
 ## In the terminal:
 
