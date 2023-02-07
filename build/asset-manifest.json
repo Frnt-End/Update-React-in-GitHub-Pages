@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Update-React-in-GitHub-Pages/static/css/main.916ae7bd.chunk.css",
-    "main.js": "/Update-React-in-GitHub-Pages/static/js/main.cdf9aa22.chunk.js",
-    "main.js.map": "/Update-React-in-GitHub-Pages/static/js/main.cdf9aa22.chunk.js.map",
+    "main.js": "/Update-React-in-GitHub-Pages/static/js/main.f0ad6d7b.chunk.js",
+    "main.js.map": "/Update-React-in-GitHub-Pages/static/js/main.f0ad6d7b.chunk.js.map",
     "runtime-main.js": "/Update-React-in-GitHub-Pages/static/js/runtime-main.e54bfc53.js",
     "runtime-main.js.map": "/Update-React-in-GitHub-Pages/static/js/runtime-main.e54bfc53.js.map",
     "static/js/2.9a4cf039.chunk.js": "/Update-React-in-GitHub-Pages/static/js/2.9a4cf039.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e54bfc53.js",
     "static/js/2.9a4cf039.chunk.js",
     "static/css/main.916ae7bd.chunk.css",
-    "static/js/main.cdf9aa22.chunk.js"
+    "static/js/main.f0ad6d7b.chunk.js"
   ]
 }

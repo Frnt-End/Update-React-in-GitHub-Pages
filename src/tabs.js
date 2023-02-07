@@ -40,7 +40,7 @@ export function Author() {
             target="_blank"
             rel="noreferrer"
           >
-            nirit.website
+            Portfolio Website
           </a>
         </p>
       </div>
