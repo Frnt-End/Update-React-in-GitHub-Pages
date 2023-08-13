@@ -32,7 +32,7 @@ body {
   line-height: 2;
 }
 
-pre {
+.commands pre {
   white-space: pre-wrap;
   /* css-3 */
   white-space: -moz-pre-wrap;
@@ -44,6 +44,8 @@ pre {
   word-wrap: break-word;
   /* Internet Explorer 5.5+ */
 }
+
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
