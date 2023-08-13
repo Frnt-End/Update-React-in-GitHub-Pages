@@ -330,6 +330,25 @@ h4 {
   }
 }
 
+@media screen and (max-width: 1000px) {
+  pre {
+    white-space: pre-wrap;
+    /* css-3 */
+    white-space: -moz-pre-wrap;
+    /* Mozilla */
+    white-space: -pre-wrap;
+    /* Opera 4-6 */
+    white-space: -o-pre-wrap;
+    /* Opera 7 */
+    word-wrap: break-word;
+    /* Internet Explorer 5.5+ */
+  }
+
+  code {
+    line-height: 2;
+  }
+}
+
 @media screen and (min-width: 1200px) and (max-width: 1599px) {
 
   .main-content-bottom,
