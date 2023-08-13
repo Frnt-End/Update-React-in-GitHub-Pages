@@ -7,7 +7,7 @@ const Portfolio = () => {
 
 export function Tutorial() {
   return (
-    <div>
+    <div className="code-lines">
       <pre>
         <code>{`npm run deploy`}</code>
       </pre>

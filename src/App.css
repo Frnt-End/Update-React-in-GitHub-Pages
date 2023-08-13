@@ -32,7 +32,7 @@ body {
   line-height: 2;
 }
 
-.commands pre {
+.commands .code-lines pre {
   white-space: pre-wrap;
   /* css-3 */
   white-space: -moz-pre-wrap;
